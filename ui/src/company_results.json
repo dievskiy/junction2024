@@ -1,0 +1,349 @@
+{
+    "company": {
+        "Overall_wellbeing": 5,
+        "Stress_level": 4.8,
+        "Work_life_balance_satisfaction": 7.1,
+        "Leadership_performance": 8.3,
+        "Word_cloud_company": [
+            {
+                "text": "work",
+                "value": 11,
+                "sentiment": "positive"
+            },
+            {
+                "text": "wellbeing",
+                "value": 5,
+                "sentiment": "positive"
+            },
+            {
+                "text": "support",
+                "value": 5,
+                "sentiment": "positive"
+            },
+            {
+                "text": "like",
+                "value": 4,
+                "sentiment": "positive"
+            },
+            {
+                "text": "positive",
+                "value": 2,
+                "sentiment": "positive"
+            },
+            {
+                "text": "appreciate",
+                "value": 2,
+                "sentiment": "positive"
+            },
+            {
+                "text": "fortunate",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "break",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "healthy",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "helped",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "flexibility",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "skill",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "confidence",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "helping",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "meaningful",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "celebrate",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "win",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "challenging",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "comforting",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "succeed",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "resilient",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "tough",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "authentic",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "refreshing",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "lucky",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "supported",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "grateful",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "improve",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "supportive",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "thank",
+                "value": 1,
+                "sentiment": "positive"
+            }
+        ],
+        "Word_cloud_employee": [
+            {
+                "text": "effort",
+                "value": 8,
+                "sentiment": "positive"
+            },
+            {
+                "text": "stress",
+                "value": 7,
+                "sentiment": "negative"
+            },
+            {
+                "text": "growth",
+                "value": 6,
+                "sentiment": "positive"
+            },
+            {
+                "text": "frustration",
+                "value": 5,
+                "sentiment": "negative"
+            },
+            {
+                "text": "learning",
+                "value": 5,
+                "sentiment": "positive"
+            },
+            {
+                "text": "anxiety",
+                "value": 4,
+                "sentiment": "negative"
+            },
+            {
+                "text": "teamwork",
+                "value": 4,
+                "sentiment": "positive"
+            },
+            {
+                "text": "overwhelmed",
+                "value": 3,
+                "sentiment": "negative"
+            },
+            {
+                "text": "motivation",
+                "value": 3,
+                "sentiment": "positive"
+            },
+            {
+                "text": "discouraged",
+                "value": 2,
+                "sentiment": "negative"
+            },
+            {
+                "text": "optimism",
+                "value": 2,
+                "sentiment": "positive"
+            },
+            {
+                "text": "joy",
+                "value": 2,
+                "sentiment": "positive"
+            },
+            {
+                "text": "strained",
+                "value": 2,
+                "sentiment": "negative"
+            },
+            {
+                "text": "success",
+                "value": 2,
+                "sentiment": "positive"
+            },
+            {
+                "text": "exhaustion",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "trust",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "hope",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "strained",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "pessimism",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "inspired",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "fatigue",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "balance",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "doubt",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "achievement",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "ambition",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "challenges",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "empowered",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "criticism",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "encouraged",
+                "value": 1,
+                "sentiment": "positive"
+            },
+            {
+                "text": "unmotivated",
+                "value": 1,
+                "sentiment": "negative"
+            },
+            {
+                "text": "rewarding",
+                "value": 1,
+                "sentiment": "positive"
+            }
+        ],
+        "Energy": 1.9,
+        "Inspiration": 7.5,
+        "Motivation": 7.8
+    },
+    "departments": {
+        "Engineering": {
+            "Overall_wellbeing": 8.1,
+            "Stress_level": 5.0,
+            "Work_life_balance_satisfaction": 6.9,
+            "Leadership_performance": 7.8,
+            "Energy": 7.6,
+            "Inspiration": 7.0,
+            "Motivation": 7.4
+        },
+        "Marketing": {
+            "Overall_wellbeing": 7.6,
+            "Stress_level": 4.5,
+            "Work_life_balance_satisfaction": 7.2,
+            "Leadership_performance": 8.1,
+            "Energy": 7.7,
+            "Inspiration": 7.3,
+            "Motivation": 7.6
+        },
+        "Sales": {
+            "Overall_wellbeing": 7.8,
+            "Stress_level": 4.8,
+            "Work_life_balance_satisfaction": 6.8,
+            "Leadership_performance": 8.0,
+            "Energy": 7.5,
+            "Inspiration": 7.2,
+            "Motivation": 7.7
+        }
+    }
+}
